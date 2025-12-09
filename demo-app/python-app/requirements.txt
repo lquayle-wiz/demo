@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 vyper==0.3.6
 # vyper==0.3.8
+=======
+vyper==0.3.7
+# Original
+# vyper==0.3.6
+>>>>>>> branch-v1
