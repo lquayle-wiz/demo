@@ -6,7 +6,7 @@
         "Default sensitive data policy"
     ],
     "wiz.codePolicies.vulnerabilities": [
-        "Default vulnerabilities policy"
+        "LQUAYLE-VULN-AUDIT"
     ],
     "wiz.codePolicies.IAC Configuration": [
         "Default IaC policy"
