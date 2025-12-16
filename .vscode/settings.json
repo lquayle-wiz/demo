@@ -1,6 +1,6 @@
 {
     "wiz.codePolicies.secrets": [
-        "Default secrets policy"
+        "LQUAYLE secrets policy"
     ],
     "wiz.codePolicies.sensitiveData": [
         "Default sensitive data policy"
