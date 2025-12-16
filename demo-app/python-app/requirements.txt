@@ -1,3 +1,3 @@
-vyper==0.3.7
+vyper==0.3.5
 # Original
 # vyper==0.3.6
